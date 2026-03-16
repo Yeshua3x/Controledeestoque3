@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1001,
+    "produto": "Notebook Dell Inspiron 15",
+    "quantidade": 8,
+    "preco": 4599.99,
+    "imagem": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1002,
+    "produto": "Mouse Gamer Logitech G203",
+    "quantidade": 25,
+    "preco": 189.90,
+    "imagem": "https://images.unsplash.com/photo-1558618047-3c8c76bbb17e?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1003,
+    "produto": "Teclado Mecânico Redragon Kumara",
+    "quantidade": 12,
+    "preco": 299.90,
+    "imagem": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1004,
+    "produto": "Monitor 24\" Samsung LED",
+    "quantidade": 6,
+    "preco": 1299.00,
+    "imagem": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1005,
+    "produto": "SSD 1TB Kingston NV2",
+    "quantidade": 18,
+    "preco": 599.90,
+    "imagem": "https://images.unsplash.com/photo-1612473633894-272a68966338?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1006,
+    "produto": "Headset Gamer HyperX Cloud II",
+    "quantidade": 15,
+    "preco": 599.90,
+    "imagem": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1007,
+    "produto": "iPhone 15 128GB",
+    "quantidade": 4,
+    "preco": 5299.00,
+    "imagem": "https://images.unsplash.com/photo-1690482587004-97d8f5fa7a4b?w=300&h=180&fit=crop"
+  },
+  {
+    "id": 1008,
+    "produto": "Cabo HDMI 2m",
+    "quantidade": 42,
+    "preco": 29.90,
+    "imagem": "https://images.unsplash.com/photo-1604014239161-cad9ad4b3f90?w=300&h=180&fit=crop"
+  }
+]
