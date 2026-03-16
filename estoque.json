@@ -13,6 +13,7 @@
     "preco": 189.90,
     "imagem": "https://images.unsplash.com/photo-1558618047-3c8c76bbb17e?w=300&h=180&fit=crop"
   },
+  
   {
     "id": 1003,
     "produto": "Teclado Mecânico Redragon Kumara",
@@ -55,4 +56,12 @@
     "preco": 29.90,
     "imagem": "https://images.unsplash.com/photo-1604014239161-cad9ad4b3f90?w=300&h=180&fit=crop"
   }
+{
+    "id": 1009,
+    "produto": "Cabo HDMI 2m",
+    "quantidade": 42,
+    "preco": 39.90,
+    "imagem": "https://images.unsplash.com/photo-1604014239161-cad9ad4b3f90?w=300&h=180&fit=crop"
+  }
 ]
+
